@@ -1,6 +1,8 @@
-# !!!!! LivePreview created only for easy viewing of pages, you can remove it by setting the variable LivePreview false (the path to the file - src/components/Page/index.js => const livePreview = false)
+## NFT Marketplace
 
-# Getting Started with Create React App
+### React Truffle Web3JS 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
